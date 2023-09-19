@@ -1,2 +1,2 @@
-import idl from "../../../target/idl/anchorcalculator.json"
+import idl from "./idl.json"
 export {idl}
