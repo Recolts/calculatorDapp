@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "@coral-xyz/anchor": "^0.28.1-beta.2",
+    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
     "@solana/web3.js": "^1.78.5",
-    "buffer": "npm:Buffer@^0.0.0",
     "Buffer": "^0.0.0",
     "patch-package": "^8.0.0",
     "react": "^18.2.0",
@@ -23,6 +23,7 @@
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react-swc": "^3.3.2",
+    "buffer": "^6.0.3",
     "eslint": "^8.45.0",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
